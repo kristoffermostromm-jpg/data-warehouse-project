@@ -1,6 +1,7 @@
 /* 
+=========================================================
 Stored procedure: Load Bronze Layer (Source -> Bronze)
-
+=========================================================
 Script Purpose: 
 	Load data into the "Bronze" Scehma from csv files
 	 - Truncates the bronze before loading
