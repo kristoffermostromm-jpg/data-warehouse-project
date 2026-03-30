@@ -13,7 +13,8 @@ Script Purpose:
 	This stored procedur does not accept any parameter or rreturn any values
 
 
-
+Usage Example: 
+	EXEC bronze.load_bronze; 
 */
 
 
